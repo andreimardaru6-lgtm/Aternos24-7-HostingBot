@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Andreimardaru.aternos.me:56285",
+    "port": 56285,
     "version": "",
     "try-creative": false
   },
