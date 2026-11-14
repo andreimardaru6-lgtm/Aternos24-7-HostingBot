@@ -115,8 +115,8 @@ Open settings.json and fill in these fields:
 }
 
 "server": {
-  "ip": "your.server.ip",
-  "port": 25565
+  "ip": "Andreimardaru.aternos.me:56285",
+  "port": 56285
 }
 
 "utils": {
